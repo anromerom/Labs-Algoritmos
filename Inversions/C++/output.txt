@@ -1,0 +1,54 @@
+Exercise instance first 10^5 numbers.
+
+
+Divide and conquer approach
+
+Number of inversions: 2495511184
+Number of comparisons: 7786111
+Time elapsed (s): 0.031
+
+
+
+Brute force approach
+
+Number of inversions: 2495511184
+Number of comparisons: 4991322366
+Time elapsed (s): 6.29
+
+
+Increasing order sorted array with 10^5 numbers.
+
+
+Divide and conquer approach
+
+Number of inversions: 0
+Number of comparisons: 6499562
+Time elapsed (s): 0.021
+
+
+
+Brute force approach
+
+Number of inversions: 0
+Number of comparisons: 4991622364
+Time elapsed (s): 0.001
+
+
+Decreasing order sorted array with 10^5 numbers.
+
+
+Divide and conquer approach
+
+Number of inversions: 4999950000
+Number of comparisons: 12067460
+Time elapsed (s): 0.022
+
+
+
+Brute force approach
+
+Number of inversions: 4999950000
+Number of comparisons: 14991822362
+Time elapsed (s): 12.602
+
+
